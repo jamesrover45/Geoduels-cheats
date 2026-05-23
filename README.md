@@ -18,3 +18,6 @@ once injected it should create a local host site on your browser, which is why i
 <img width="427" height="414" alt="image" src="https://github.com/user-attachments/assets/a650a4bb-57e4-46b4-8142-5f4d82607274" />
 ![Uploading image.png…]()
 
+
+
+
