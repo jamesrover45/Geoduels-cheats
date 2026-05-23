@@ -1,10 +1,17 @@
 # Geoduels-cheats
 Location for geoduels
 
-Once in a Geoduels.io tab, run the exe and wait 5seconds, it should create a localhosted site on the URL bar.
-Once loaded, play any game.
-Press right shift to configure settings. 
-to prevent distribution in the future if this becomes a problem: a code is added, currently it's "dev" to enable precise 
-        "red-dot" location, and a setting for if the country should be displayed on the screen.
+1. Load Geoduels.io game/site
 
-if you want access to a screenshare version where the modules are invisible to screenshares press request access and I will confirm/reject 
+2. Load exe
+
+3. Right shift to view features - "dev" password (currently - can be changed)
+
+4. invisible mode is hidden for recordings, but you will need to request access
+
+
+
+
+Details:
+
+once injected it should create a local host site on your browser, which is why it may seem like it types something briefly.
