@@ -17,6 +17,7 @@ Details:
 once injected it should create a local host site on your browser, which is why it may seem like it types something briefly.
 <img width="1910" height="1071" alt="image" src="https://github.com/user-attachments/assets/c59b1f7c-a5de-4046-bc02-79885df15108" />
 
+<img width="416" height="416" alt="image" src="https://github.com/user-attachments/assets/e8a3386e-7883-42dd-98c9-6d80a14e2e45" />
 
 
 
